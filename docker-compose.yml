@@ -1,0 +1,8 @@
+version: "3"
+
+services:
+    build: .
+    working_dir: /app/finlab_data_center
+    volumes:
+      - .:/app
+

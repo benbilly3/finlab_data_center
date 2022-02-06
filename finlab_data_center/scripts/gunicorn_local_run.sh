@@ -1,0 +1,1 @@
+gunicorn finlab_data_center.wsgi:application --env DJANGO_SETTINGS_MODULE=finlab_data_center.settings.dev & python manage.py qcluster --settings=finlab_data_center.settings.dev

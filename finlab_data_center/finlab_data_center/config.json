@@ -1,0 +1,17 @@
+{
+    "DBACCOUNT": "",
+    "DBPASSWORD": "",
+    "DBHOST": "127.0.0.1",
+    "DBPORT": 3306,
+    "ADMIN_DBNAME": "",
+    "US_DBNAME": "us_data",
+    "TW_DBNAME": "tw_data",
+    "DEV_ADMIN_DBNAME": "",
+    "DEV_US_DBNAME": "dev_us_data",
+    "DEV_TW_DBNAME": "dev_tw_data",
+    "QUANDL_API_KEY" : "",
+    "GMAIL": "",
+    "GMAIL_PASSWORD":"",
+    "GITLAB_NAME": "",
+    "GITLAB_PASSWORD": ""
+}

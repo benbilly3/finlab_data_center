@@ -1,0 +1,1 @@
+python manage.py runserver --settings=finlab_data_center.settings.dev & python manage.py qcluster --settings=finlab_data_center.settings.dev

@@ -1,0 +1,1 @@
+docker build -t local_finlab_data_center -f Dockerfile .

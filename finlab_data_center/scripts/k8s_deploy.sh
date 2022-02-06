@@ -1,0 +1,1 @@
+kubectl create -f k8s_deploy.yaml

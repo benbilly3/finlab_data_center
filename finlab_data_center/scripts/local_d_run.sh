@@ -1,0 +1,1 @@
+docker run --env PORT=8001 --env DJANGO_ENV=dev -it -p 8001:8001  local_finlab_data_center
